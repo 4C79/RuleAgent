@@ -25,7 +25,7 @@ RuleAgent is a modest attempt at creating a rule-based agent system that aims to
 
 ## Status
 
-🚧 **Coming Soon**: The complete source code and documentation will be released shortly. We are currently preparing the final version for public release.
+🚧 **Coming Soon**: The complete source code and documentation will be released shortly.
 
 ## What to Expect
 
@@ -36,10 +36,6 @@ Once released, RuleAgent will include:
 - Usage examples and tutorials
 - Installation instructions
 - API reference
-
-## Contributing
-
-We welcome contributions from the community. Detailed contribution guidelines will be available upon the code release.
 
 ## Contact
 

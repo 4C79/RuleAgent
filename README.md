@@ -23,63 +23,27 @@ RuleAgent is a modest attempt at creating a rule-based agent system that aims to
 - 🔗 **Integration**: Provides REST API and Python SDK
 - 🚀 **Performance**: Implements optimized rule matching with parallel processing support
 
-## Getting Started
+## Status
 
-### Installation
+🚧 **Coming Soon**: The complete source code and documentation will be released shortly. We are currently preparing the final version for public release.
 
-```bash
-pip install ruleagent
-```
+## What to Expect
 
-### Basic Usage
+Once released, RuleAgent will include:
 
-```python
-from ruleagent import RuleEngine
-
-# Initialize the engine
-engine = RuleEngine()
-
-# Define a simple rule
-engine.add_rule({
-    "name": "basic_rule",
-    "condition": "temperature > 30",
-    "action": "activate_cooling"
-})
-
-# Execute the rule
-result = engine.execute({"temperature": 35})
-```
-
-## Documentation
-
-Please visit our [documentation](docs/) for more information:
-
-- API Reference
-- Tutorials & Examples
-- Best Practices
-- Deployment Guidelines
-
-## Project Structure
-
-```
-RuleAgent/
-├── docs/               # Documentation
-├── examples/          # Example code
-├── ruleagent/         # Core implementation
-├── tests/            # Test suite
-├── benchmarks/       # Performance tests
-└── tools/            # Utilities
-```
+- Complete source code
+- Comprehensive documentation
+- Usage examples and tutorials
+- Installation instructions
+- API reference
 
 ## Contributing
 
-We would be grateful for any contributions from the community. If you're interested in helping, please check our [Contributing Guide](CONTRIBUTING.md).
+We welcome contributions from the community. Detailed contribution guidelines will be available upon the code release.
 
 ## Contact
 
 - 📧 Email: contact@ruleagent.org
-- 💬 Discord: [RuleAgent Community](https://discord.gg/ruleagent)
-- 🐦 Twitter: [@RuleAgent](https://twitter.com/ruleagent)
 
 ## License
 

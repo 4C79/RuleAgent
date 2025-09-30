@@ -12,7 +12,7 @@
 
 ## Introduction
 
-RuleAgent is a modest attempt at creating a rule-based agent system that aims to combine traditional rule engines with modern AI techniques for automated reasoning and decision making. We believe this approach might be helpful in scenarios where transparency, interpretability, and precise control are valued.
+RuleAgent is an attempt at creating a rule-based agent system that aims to combine traditional rule engines with modern AI techniques for automated reasoning and decision making. We believe this approach might be helpful in scenarios where transparency, interpretability, and precise control are valued.
 
 ### Key Features
 

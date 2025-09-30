@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![RuleAgent Logo](assets/images/logo.png)
+<img src="assets/images/logo.png" alt="RuleAgent Logo" width="150" height="150">
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)

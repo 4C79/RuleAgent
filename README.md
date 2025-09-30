@@ -43,7 +43,7 @@ We welcome contributions from the community. Detailed contribution guidelines wi
 
 ## Contact
 
-- 📧 Email: contact@ruleagent.org
+- 📧 Email: yangliu07@vt.edu
 
 ## License
 
